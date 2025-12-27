@@ -20,9 +20,9 @@ user input handling.
 ## How to Run
 1. Clone the repository
 2. Compile the Java file:
-   javac intro.java
+   javac bankingApp.java
 3. Run the program:
-   java intro
+   java banking app
 
 ## Future Improvements
 - Add multiple accounts
